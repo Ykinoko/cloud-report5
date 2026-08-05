@@ -1,3 +1,3 @@
-1.report5.omlをダウンロード　
+1.report5.omlをダウンロード/n
 2.ODC StudioでOrganizationを押す　
 3.Open file...を押してダウンロードしてファイルを選択する　
